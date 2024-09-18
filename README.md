@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo César (a.k.a .bashRC)</h1>
 <h3 align="center">A enthusiastic SRE from Brazil</h3>
 
-- 👷‍♂️ I’m currently working on [StoneCo.](https://www.stone.com.br/)
+- 👷‍♂️ I’m currently working on [CompassUOL](https://compass.uol/pt/home/)
 
 - 🔥 Interested in **SRE | DevOps| Cloud | CyberSecurity**
 
