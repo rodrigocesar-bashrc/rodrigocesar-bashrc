@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rodrigocesarmelo]
 
-- 🚀 My currently Stack **AWS, GCP, containers Docker & Kubernetes, IaC (Terraform), CaC (Ansible), CI/CD (Jenkins e GitHubActions), Observabilidade (Prometheus e Grafana), SCM (Git) e etc...**
+- 🚀 My currently Stack **AWS, GCP, containers Docker & Kubernetes, IaC (Terraform), CaC (Ansible), CI/CD (Jenkins, GitHub Actions e Azure DevOps), Observabilidade (Zabbix, Grafana, New Relic e DataDog), SCM (Git), algumas ferramentas de SAST e SCA, tfsec, checkov**
 
 - 🚀 I use daily **.tf, .yml, .sh, .json**
 
