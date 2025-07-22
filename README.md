@@ -3,8 +3,6 @@
 
 - 👷‍♂️ I’m currently working as a Cloud Security Engineer at [Asaas](https://asaas.com/)
 
-- 🔥 Interested in **SRE | DevOps| Cloud | CyberSecurity**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rodrigocesar-bashrc?tab=repositories]
 
 - 📝 I regularly write articles on [https://medium.com/@rodrigocesarmelo]
