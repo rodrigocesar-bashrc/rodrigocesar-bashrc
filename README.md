@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo César (a.k.a .bashRC)</h1>
 <h3 align="center">A enthusiastic SRE from Brazil</h3>
 
-- 👷‍♂️ I’m currently working on [CompassUOL](https://compass.uol/pt/home/)
+- 👷‍♂️ I’m currently working as a Cloud Security Engineer at [Asaas](https://asaas.com/)
 
 - 🔥 Interested in **SRE | DevOps| Cloud | CyberSecurity**
 
@@ -11,7 +11,7 @@
 
 - 🚀 My currently Stack **AWS, GCP, containers Docker & Kubernetes, IaC (Terraform), CaC (Ansible), CI/CD (Jenkins, GitHub Actions e Azure DevOps), Observabilidade (Zabbix, Grafana, New Relic e DataDog), SCM (Git), algumas ferramentas de SAST e SCA, tfsec, checkov**
 
-- 🚀 I use daily **.tf, .yml, .sh, .json**
+- 🚀 I use daily **.py, .tf, .yml, .sh, .json**
 
 - 📫 How to reach me [rccloudlab@proton.me](rccloudlab@proton.me)
 
