@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo César (a.k.a .bashRC)</h1>
-<h3 align="center">A enthusiastic SRE from Brazil</h3>
+<h3 align="center">Cloud | Security | DevSecOps</h3>
 
 - 👷‍♂️ I’m currently working as a Cloud Security Engineer at [Asaas](https://asaas.com/)
 
